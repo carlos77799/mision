@@ -1,0 +1,18 @@
+C:\mision>git commit -m "registrar pasajeros"
+On branch master
+nothing to commit, working tree clean
+
+C:\mision>git commit -m "mostrar pasajeros"
+On branch master
+nothing to commit, working tree clean
+
+C:\mision>git commic -m "ordenamiento de pasajeros por destino y documento"
+git: 'commic' is not a git command. See 'git --help'.
+
+The most similar command is
+        commit
+
+C:\mision>git log
+commit 3c223bd0f0d99a8303c06fca35cee3731b710987 (HEAD -> master)
+Author: carlos77799 <borrerojean12@gmail.com>
+Date:   Tue Oct 8 15:45:45 2024 -0500
